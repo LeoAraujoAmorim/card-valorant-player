@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: black;
+}
+
+
+/* #img-mashle {
+  width: 400px;
+  border-radius: 9999px;
+  margin:auto;
+} */
