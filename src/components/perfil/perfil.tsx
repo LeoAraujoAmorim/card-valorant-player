@@ -3,7 +3,7 @@
 export default function Perfil() {
     return (
         <div>
-            <div className="bg-zinc-950 pt-28">
+            <div className="bg-[#232225] pt-28">
                 <img className="m-auto pt-5 h-44 w-44 object-cover" id="img-mashle" src="../images/mashle.png/" alt="" />
                 <p className="text-center text-2xl font-bold uppercase text-white pt-8">Leozin Malvadeza</p>
                 <p className="text-center text-white">Jogador de Valorant flex/sentinela + Programador e Desenvolvedor</p>

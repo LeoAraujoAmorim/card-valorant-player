@@ -1,6 +1,6 @@
 export default function Ranks() {
     return (
-        <div className="bg-zinc-950 mt-10 p-14">
+        <div className="bg-[#232225] mt-10 p-14">
             <h1 className="font-bold text-white text-3xl p-4">RANKS</h1>
             <section className="flex  space-x-32">
                 <img className="pb-3 " src="../images/logo-valorant.png" alt="" />
